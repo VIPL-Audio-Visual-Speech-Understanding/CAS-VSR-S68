@@ -1,5 +1,5 @@
 # CAS-VSR-S68
-![Cover Image](images/cover.jpg)
+
 ## Introduction
 CAS-VSR-S68 is a lip reading dataset designed for evaluating the challenging setting where the speech content is highly diverse, involving almost all common Chinese characters while the number of speakers is limited. The data is collected from over 10 years of the "News Broadcast" program, but with only 11 hosts as the speakers.  
 
