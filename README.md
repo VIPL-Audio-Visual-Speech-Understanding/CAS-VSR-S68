@@ -138,3 +138,10 @@ If you use the CAS-VSR-S68 dataset in your research, please cite it as follows:
     year = {2023},
     url = {https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0146.pdf}
 }
+
+## Related Projects
+[CAS-VSR-W1k (LRW-1000): The first in-the-wild Mandarian lip-reading dataset](https://github.com/VIPL-Audio-Visual-Speech-Understanding/LRW1000--CAS-VSR-W1k)
+
+[CAS-VSR-S101: A wild sentence-level audio-visual speech dataset ](https://github.com/VIPL-Audio-Visual-Speech-Understanding/CAS-VSR-S101)
+
+[CAS-VSR-MOV20: A challenging lip-reading dataset with various visual conditions](https://github.com/VIPL-Audio-Visual-Speech-Understanding/CAS-VSR-MOV20)
